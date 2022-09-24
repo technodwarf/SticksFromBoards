@@ -1,0 +1,21 @@
+{
+   "type":"content",
+   "modid":"sticksfromboards",
+   "name":"Sticks from boards",
+   "description":"Make sticks by sawing up two boards",
+   "version":"1.17.4",
+   "networkversion":null,
+   "website":"",
+   "authors":[
+      "technodwarf"
+   ],
+   "contributors":[
+      
+   ],
+   "side":"Universal",
+   "RequiredOnClient":false,
+   "RequiredOnServer":true,
+   "dependencies":{
+      
+   }
+}
