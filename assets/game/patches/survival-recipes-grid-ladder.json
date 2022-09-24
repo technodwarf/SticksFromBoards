@@ -1,0 +1,7 @@
+[
+  {
+    "op": "remove",
+    "path": "/1",
+    "file": "game:recipes/grid/ladder.json"
+  }
+]
